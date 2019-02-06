@@ -20,6 +20,7 @@ public class Hero {
 	private String[] stats;
 	
 	/** added text
+	 * added some more text
 	 * Construct a hero from an information string
 	 * 
 	 * @param information contains information about te hero in the form:
